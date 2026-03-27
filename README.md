@@ -17,7 +17,7 @@ python main.py
 - Add assets with ticker, sector, asset class, quantity and purchase price
 - View portfolio table with current prices, transaction value, current value and gain/loss
 - Plot historical price charts for individual or all tickers
-- View portfolio weights broken down by asset and by sector/asset class
+- View portfolio weights broken down by asset and by sector/asset class, along with Sharpe ratio
 - Run a Monte Carlo simulation over 15 years with 100,000 simulated paths
 
 ## Usage
